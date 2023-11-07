@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardofcorrea&label=Profile%20views&color=0e75b6&style=flat" alt="leonardofcorrea" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardofcorrea" alt="leonardofcorrea" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/leo_f_correa" target="blank"><img src="https://img.shields.io/twitter/follow/leo_f_correa?logo=twitter&style=for-the-badge" alt="leo_f_correa" /></a> </p>
 
 - 🔭 I’m currently working on [Dalva's Kingdom Game](https://github.com/LeonardoFCorrea/Dalvas-Kingdom)
@@ -19,6 +17,8 @@
 - 📫 How to reach me **leonardofelixcorrea@gmail.com**
 
 - ⚡ Fun fact **I'm trustworthy and I try to learn more and more with my coffee always by my side!**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardofcorrea" alt="leonardofcorrea" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
