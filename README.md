@@ -1,4 +1,4 @@
-[![MasterHead]([https://giphy.com/embed/ky37dOwrOBb4yXosfN))]()
+[![MasterHead](https://giphy.com/embed/ky37dOwrOBb4yXosfN)]()
 
 <h1 align="center">Hi 👋, I'm Leonardo Félix Corrêa</h1>
 <h3 align="center">A passionate game/frontend/backend developer from Brazil</h3>
