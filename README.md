@@ -1,4 +1,4 @@
-[![MasterHead]([https://media.tenor.com/Cxhbf20E_EoAAAAC/banner.gif](https://2.bp.blogspot.com/-HPvsFc4GN5c/Xl6vbG1u5jI/AAAAAAAAOuo/LBRvLnDFqa4tESl64weBBCF568CTVJTAACLcBGAsYHQ/s1600/Podcast_Android_Hero_4209x1253_25%2525.gif))]()
+[![MasterHead]([https://giphy.com/embed/ky37dOwrOBb4yXosfN))]()
 
 <h1 align="center">Hi 👋, I'm Leonardo Félix Corrêa</h1>
 <h3 align="center">A passionate game/frontend/backend developer from Brazil</h3>
