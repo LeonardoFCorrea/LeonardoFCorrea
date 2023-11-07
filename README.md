@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/embed/ky37dOwrOBb4yXosfN)]()
+[![MasterHead](https://garystanton.co.uk/content/images/2020/05/Banner01.gif)]()
 
 <h1 align="center">Hi 👋, I'm Leonardo Félix Corrêa</h1>
 <h3 align="center">A passionate game/frontend/backend developer from Brazil</h3>
