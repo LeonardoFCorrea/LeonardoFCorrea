@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Dalva's Kingdom Game](https://github.com/LeonardoFCorrea/Dalvas-Kingdom)
 
-- 🌱 I’m currently learning **C#, ASP.NET, Game Development, Graphic Design**
+- 🌱 I’m currently learning **C#, ASP.NET, Game Development, Graphic Design, Game Design, Java, Spring Boot**
 
 - 💬 Ask me about **C#, ASP.NET**
 
