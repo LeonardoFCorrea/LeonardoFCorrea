@@ -1,4 +1,4 @@
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx[![MasterHead](https://garystanton.co.uk/content/images/2020/05/Banner01.gif)]()
+[![MasterHead](https://garystanton.co.uk/content/images/2020/05/Banner01.gif)]()
 
 <h1 align="center">Hi 👋, I'm Leonardo Félix Corrêa</h1>
 <h3 align="center">A passionate game/full stack developer from Brazil</h3>
