@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/leo_f_correa" target="blank"><img src="https://img.shields.io/twitter/follow/leo_f_correa?logo=twitter&style=for-the-badge" alt="leo_f_correa" /></a> </p>
 
-- 🔭 I’m currently working on [Dalva's Kingdom Game](https://github.com/LeonardoFCorrea/Dalvas-Kingdom)
-
 - 🌱 I’m currently learning **React Js, Tailwind && JavaScript**
 
 - 💬 Ask me about **React JS, Tailwind**
