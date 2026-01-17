@@ -16,8 +16,6 @@
 
 - ⚡ Fun fact **I'm trustworthy and I try to learn more and more with my coffee always by my side!**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardofcorrea" alt="leonardofcorrea" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/leo_f_correa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leo_f_correa" height="30" width="40" /></a>
