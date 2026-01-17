@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on [Dalva's Kingdom Game](https://github.com/LeonardoFCorrea/Dalvas-Kingdom)
 
-- 🌱 I’m currently learning **C#, ASP.NET, Game Development, Graphic Design, Game Design, Java, Spring**
+- 🌱 I’m currently learning **React Js, Tailwind && JavaScript**
 
-- 💬 Ask me about **C#, ASP.NET**
+- 💬 Ask me about **React JS, Tailwind**
 
 - 📫 How to reach me **leonardofelixcorrea@gmail.com**
 
