@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/leo_f_correa" target="blank"><img src="https://img.shields.io/twitter/follow/leo_f_correa?logo=twitter&style=for-the-badge" alt="leo_f_correa" /></a> </p>
 
-- 🌱 I’m currently learning **Python, AI, Data, AWS, React Js, Tailwind && JavaScript**
+- 🌱 I’m currently learning **Python, FastAPI, AI, Data, AWS, React Js**
 
 - 💬 Ask me about **React JS, Tailwind**
 
