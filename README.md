@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python, FastAPI, AI, Data, AWS and React Js**
 
-- 💬 Ask me about **Python, React JS and Tailwind**
+- 💬 Ask me about **Python, SQL, NumPy & Pandas**
 
 - 📫 How to reach me **leonardofelixcorrea@gmail.com**
 
